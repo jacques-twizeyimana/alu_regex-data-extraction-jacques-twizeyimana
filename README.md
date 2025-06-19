@@ -1,6 +1,6 @@
-# Regex Data Extraction
+# ALU Regex Data Extraction
 
-## Overview
+## Project Overview
 
 This project extracts 8 different types of structured data using Python and Regular Expressions:
 
